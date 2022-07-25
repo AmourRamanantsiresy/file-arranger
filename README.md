@@ -17,4 +17,4 @@ folder and put files into the appropriate folder.
 ## How to run it ? 
 
 - First download and install [Python](https://www.python.org)
-- After that, clone this repository : ``sh' git clone https://github.com/AmourRamanantsiresy/file-arranger.git``
+- After that, clone this repository : ``git clone https://github.com/AmourRamanantsiresy/file-arranger.git``
